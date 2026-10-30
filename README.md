@@ -37,42 +37,23 @@ I am a data analyst with a BSc (Hons) in Electronics, working mainly in SQL, Pyt
 
 ## Dashboard Gallery
 
-Screenshots of the dashboards I have built. Each one links to its repository.
-
-<!--
-HOW TO ADD IMAGES
-1. Create a folder named "images" in the root of the repository that holds this README.
-2. Upload your screenshots there (PNG or JPG, about 1600 px wide is a good size).
-3. Replace the file names below with your own, and fill in the one-line caption.
--->
-
-### E-Com End-to-End (Power BI)
-
-![E-Com dashboard overview](images/ecom-dashboard-overview.png)
-
-Caption: one line on what this page shows and the key insight.
-
-![E-Com dashboard detail](images/ecom-dashboard-detail.png)
-
-Caption: one line on what this page shows.
-
 ### Nykaa Marketing Campaign Analysis (Power BI)
 
-![Nykaa campaign dashboard](images/nykaa-dashboard.png)
+![Nykaa campaign dashboard](screenshots/overview_dashboard.png)
 
-Caption: one line on what this page shows and the key insight.
+Campaign produced 1.92 times of profit of its ad spends in `college students` category with net revenue of `₹5.8 billion`. 
 
-### Sales and HR Dashboard (Excel)
+### Live Weather Dashboard
 
-![Sales and HR dashboard](images/sales-hr-dashboard.png)
+![Live Weather dashboard](screenshots/weather_report_dashboard.png)
 
-Caption: one line on what this page shows and the key insight.
+Live API-based Weather dashboard of 6 Indian cities that automatically updates on 5 minutes or after refreshing dashboard.
 
-### Power BI Dashboard from Excel
+### Financial Fraud Analysis
 
-![Power BI KPI dashboard](images/powerbi-kpi-dashboard.png)
+![Executive dashboard](screenshots/executive_dashboard.png)
 
-Caption: one line on what this page shows and the key insight.
+![Merchant dashboard](screenshots/merchant_dashboard.png)
 
 ---
 
